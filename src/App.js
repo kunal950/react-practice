@@ -10,7 +10,7 @@ function App() {
       {/* <Accordian/> */}
       {/* <RandomColor/> */}
       {/* <StarRating /> */}
-      <Loginform/>
+      {/* <Loginform/> */}
     </div>
   );
 }
